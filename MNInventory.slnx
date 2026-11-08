@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/MNInventoryApp/MNInventoryApp.csproj" />
+  <Project Path="src/MNInventoryUI/MNInventoryUI.csproj" />
+</Solution>
